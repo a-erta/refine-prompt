@@ -1,0 +1,10 @@
+{
+  "name": "refine-prompt",
+  "description": "Analyze and iteratively rewrite your draft prompt before the model executes it.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alessandro Erta"
+  },
+  "license": "MIT",
+  "keywords": ["prompt", "prompt-engineering", "skill", "refinement"]
+}
